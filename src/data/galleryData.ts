@@ -30,6 +30,7 @@ export const COLLECTIONS: Record<string, CollectionInfo> = {
     description: 'Personal graphic design portfolio of Yuvraj Singh — brand identity systems, Swiss editorial layouts, brutalist posters, festival designs, and custom typography.',
     path: 'work-home'
   },
+
   'the-corporates': {
     id: 'the-corporates',
     title: '02 — The Corporates',
@@ -39,6 +40,7 @@ export const COLLECTIONS: Record<string, CollectionInfo> = {
     description: 'Comprehensive brand identity, keynote posters, event backdrops, and social media campaigns engineered for Satyawati College\'s flagship Commerce Society.',
     path: 'the-corporates'
   },
+
   'umang': {
     id: 'umang',
     title: '03 — Umang Fest',
@@ -48,6 +50,7 @@ export const COLLECTIONS: Record<string, CollectionInfo> = {
     description: 'High-octane visual identity for Satyawati College\'s annual cultural fest Umang \'26 — official sponsor call, artist reveals (Krrish Rao, Antidote), and retro city skyline teaser banner.',
     path: 'umang'
   },
+
   'other-designs': {
     id: 'other-designs',
     title: '04 — Other Designs',
@@ -57,6 +60,7 @@ export const COLLECTIONS: Record<string, CollectionInfo> = {
     description: 'Personal explorations in Swiss grid systems, brutalist chrome typography, Porsche automotive graphics, and printed editorial matter.',
     path: 'other-designs'
   },
+
   'about': {
     id: 'about',
     title: '05 — About Me',
@@ -67,9 +71,7 @@ export const COLLECTIONS: Record<string, CollectionInfo> = {
     path: 'about'
   }
 };
-path: 'about'
-  }
-};
+
 
 export const CORPORATES_ITEMS: GalleryItem[] = [
   {
